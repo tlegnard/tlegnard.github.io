@@ -10,3 +10,4 @@ TODO:
 - [ ] Add resume page
   - [ ] link in menu
 - [ ] Get gh-pages deployment working
+  - [ ] figure out which branch to deploy to
