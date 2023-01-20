@@ -9,3 +9,4 @@ TODO:
   - [ ] linke to one page instead of /about/ directory
 - [ ] Add resume page
   - [ ] link in menu
+- [ ] Get gh-pages deployment working
