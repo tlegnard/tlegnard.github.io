@@ -9,5 +9,5 @@ TODO:
   - [ ] linke to one page instead of /about/ directory
 - [ ] Add resume page
   - [ ] link in menu
-- [ ] Get gh-pages deployment working
-  - [ ] figure out which branch to deploy to
+- [x] Get gh-pages deployment working
+  - [x] figure out which branch to deploy to
