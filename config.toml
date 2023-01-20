@@ -1,0 +1,17 @@
+baseURL = 'https://tlegnard.github.io'
+languageCode = 'en-us'
+title = 'Tom Legnard'
+theme = "mainroad"
+[params]
+  mainSections = ['posts']
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'about'
+  url = '/about/'
+  weight = -110
+[[menu.main]]
+  name = 'Blog'
+  url = '/posts/'
+  weight = -100
+
