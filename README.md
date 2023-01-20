@@ -1,2 +1,2 @@
 # tlegnard.github.io
-Tom Legnard's Personal Site
+Tom's Personal Blog and Resume
