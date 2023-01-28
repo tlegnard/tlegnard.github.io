@@ -8,7 +8,7 @@ theme = "mainroad"
 [[menu.main]]
   identifier = 'about'
   name = 'about'
-  url = '/about/'
+  url = '/about'
   weight = -110
 [[menu.main]]
   name = 'Blog'

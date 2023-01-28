@@ -1,7 +1,7 @@
 ---
 title: "Setup Part1"
 date: 2023-01-19T21:49:12-05:00
-draft: false
+draft: true
 ---
 TODO:
 - [x] setup menu bar
