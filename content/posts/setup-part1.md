@@ -6,7 +6,7 @@ draft: true
 TODO:
 - [x] setup menu bar
 - [ ] Update about section
-  - [ ] linke to one page instead of /about/ directory
+  - [] linke to one page instead of /about/ directory
 - [ ] Add resume page
   - [ ] link in menu
 - [x] Get gh-pages deployment working
