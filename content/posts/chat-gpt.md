@@ -3,8 +3,6 @@ title: "Some Thoughts on ChatGPT"
 date: 2023-01-29T10:45:42-05:00
 draft: false
 ---
-Draft:
-
 *Note that some of this article was written with some assitance with ChatGPT, paragraphs drafted using the tool are preceded with the prompt used to generate the content, and marked as such at the end, although there may have been edits or revisions applied by the author.*
 
 Working in the education technology space in the advent of ChatGPT has been interesting if not also irritating. Like any other bubble, people tend to take a lot of stock in new technology that seems to be easy to use and disrupt how our society operates. In the higher-ed world, ChatGPT appears to be the ultimate reckoning. Many facutly fear the worst, rampant cheating (as if that wasn't already happening), loss in critical thinking, removal of the ability to judge studen't writing based on their ideas rather than their ability to put a prompt into an AI engine that gives them the answer.
@@ -44,4 +42,3 @@ I would tend to agree with ChatGPTs input here, and it certainly helped get me o
 Where I think the hype falls short is how students will use the AI to cheat, and *get away with it*, if anything ChatGPT is exposing how much blatant cheating that has already been going on. What I'm interested in is how we can monitor that cheating, and on the flip-side, what useful metrics can we use to measure critical thinking, and how can ChatGPT be used as a learning tool to learn these skills?
 
 Although ChatGPT is very new and can seem like a terrifying force that will displace jobs, open a wave of cheating and theft of thought, this is a very normal reaction. In my opinion it's a tool that can be used to greatly enhance human creativity and automate the boring part of writing compelling thought.
-
