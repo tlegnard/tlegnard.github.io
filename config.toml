@@ -1,4 +1,5 @@
-baseURL = 'https://tlegnard.github.io'
+# baseURL = 'https://tlegnard.github.io'
+baseURL = ""
 languageCode = 'en-us'
 title = 'Tom Legnard'
 theme = "mainroad"
